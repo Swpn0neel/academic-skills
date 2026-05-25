@@ -1,5 +1,5 @@
 ---
-name: skills/journal-fixer
+name: journal-fixer
 description:
     Rewrite the prose inside a LaTeX (.tex) file so it reads like a professional,
   domain-appropriate research paper, while leaving every command, math
