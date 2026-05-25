@@ -14,7 +14,7 @@ description: |
   writing" of a .tex file. The skill always edits the same file the user
   pointed at; it does not produce a new file unless the user asks.
 license: MIT
-compatibility: kiro-cli claude-code opencode cowork
+compatibility: kiro-cli claude-code opencode cowork antigravity codex
 allowed-tools:
   - Read
   - Write
