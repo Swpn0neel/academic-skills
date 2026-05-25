@@ -10,4 +10,6 @@ It can change the tone of the text to more research-oriented language. It can fi
 
 ## Installation Command
 
-> npx skills add https://github.com/Swpn0neel/academic-skills --skill journal-fixer
+```bash
+npx skills add https://github.com/Swpn0neel/academic-skills --skill journal-fixer
+```
