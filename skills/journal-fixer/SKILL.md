@@ -1,7 +1,7 @@
 ---
-name: journal-fixer
-description: |
-  Rewrite the prose inside a LaTeX (.tex) file so it reads like a professional,
+name: skills/journal-fixer
+description:
+    Rewrite the prose inside a LaTeX (.tex) file so it reads like a professional,
   domain-appropriate research paper, while leaving every command, math
   environment, citation, label, figure, and table intact and editing the file
   in place. Use this skill whenever the user has a .tex manuscript and wants
