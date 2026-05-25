@@ -1,14 +1,14 @@
 ---
 name: journal-fixer
-description:
-    Rewrite the prose inside a LaTeX (.tex) file so it reads like a professional,
+description: >
+  Rewrite the prose inside a LaTeX (.tex) file so it reads like a professional,
   domain-appropriate research paper, while leaving every command, math
   environment, citation, label, figure, and table intact and editing the file
   in place. Use this skill whenever the user has a .tex manuscript and wants
   academic polishing, journal/conference submission preparation, tone or style
   rewriting, removal of AI-flavored prose from a paper, or generally wants
   their LaTeX writing to sound like a real published paper in their field
-  (CS/ML, biomedical, physics, chemistry, engineering, social sciences, etc.) —
+  (CS/ML, biomedical, physics, chemistry, engineering, social sciences, etc.) --
   even if they do not explicitly say "research paper", "academic", or "journal".
   Also use it whenever someone asks to "humanize", "de-AI", or "fix the
   writing" of a .tex file. The skill always edits the same file the user
