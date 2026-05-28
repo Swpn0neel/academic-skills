@@ -23,3 +23,15 @@ It can change the tone of the text to more research-oriented language, fix gramm
 ```bash
 npx skills add https://github.com/Swpn0neel/academic-skills --skill journal-fixer
 ```
+
+## 3. Ref Builder
+
+Reads an academic paper, finds real supporting papers for every claim, and builds or improves a complete bibliography with properly placed inline citations throughout the text.
+
+Point it at a `.tex` file or plain-text manuscript. It extracts every factual claim that needs a citation, searches Google Scholar, arXiv, Semantic Scholar, PubMed, IEEE Xplore, and ACM Digital Library for real papers, verifies each one exists, then inserts inline citation markers at the right places and produces a formatted bibliography. Works with existing references too — it can fill gaps, replace placeholders, or verify that your current citations are real.
+
+Supports IEEE, APA, ACM, Vancouver, Chicago, and MLA styles. Auto-detects the style from your document class or bibliography commands.
+
+```bash
+npx skills add https://github.com/Swpn0neel/academic-skills --skill ref-builder
+```
